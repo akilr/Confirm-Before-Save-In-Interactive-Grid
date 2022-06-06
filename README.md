@@ -10,9 +10,9 @@ Import plugin file "dynamic_action_plugin_ig_confirm_before_save.sql" from Sourc
   2) Create a Dynamic Action (Event: Page Load).<br>
   3) Create a True action.<br>
   4) Select the <b>Interactive Grid - Confirm Before Save [Plug-in]</b> option.<br>
-  5) Provide the Static ID of the Interactive Grid in the Region Static ID field.<br>
-  6) Choose the Evenet for which you want to show the Confirm Message (eg: Insert, Update, Delete, Insert/Update etc...).<br> 
-  7) There is a default Confrim message that will be populated. If Required, the Confirm Message can be customized.
+  5) Provide the Static ID of the Interactive Grid in the <b>Region Static ID<b> field.<br>
+  6) Choose the Event for which you want to show the Confirm Message (eg: Insert, Update, Delete, Insert/Update etc...).<br> 
+  7) There is a default Confirm message that will be populated. If Required, the Confirm Message can be customized.
     
 <h2>Demo</h2>
 https://apex.oracle.com/pls/apex/workspace_akil/r/demo/ig-confirm-before-save
