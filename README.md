@@ -17,7 +17,7 @@ Import plugin file "dynamic_action_plugin_ig_confirm_before_save.sql" from Sourc
 <h2>Images For Reference</h2>
 <ul>
 <li><a href="https://user-images.githubusercontent.com/30211230/172178216-59e1f8c0-9c68-4399-a9e3-3bb4938a1973.png" target="_blank">IG Static ID</a></li>
-<li><a href="https://user-images.githubusercontent.com/30211230/172178216-59e1f8c0-9c68-4399-a9e3-3bb4938a1973.png" target="_blank">Plugin Attributes</a></li>
+<li><a href="https://user-images.githubusercontent.com/30211230/172188580-5c603ce6-7549-4999-891e-fe4a4826447b.png" target="_blank">Plugin Attributes</a></li>
 Description for the numbering from the above image:<br>
    &emsp;1) Static ID of the Interactive Grid for which you want to use this plugin.<br>
    &emsp;2) DML Event for which the confirm message must be shown.<br>
@@ -26,3 +26,4 @@ Description for the numbering from the above image:<br>
 <h2>Demo</h2>
 https://apex.oracle.com/pls/apex/workspace_akil/r/demo/ig-confirm-before-save
 
+![Plugin Attributes](https://user-images.githubusercontent.com/30211230/172188580-5c603ce6-7549-4999-891e-fe4a4826447b.png)
