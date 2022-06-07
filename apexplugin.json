@@ -27,7 +27,7 @@
         "internalName" : "IG_CONFIRM_BEFORE_SAVE",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/workspace_akil/r/demo/ig-confirm-before-save",
-        "previewImage" : "https://github.com/akilr/Confirm-Before-Save-In-Interactive-Grid/blob/main/IG_Confirm_before_Save.gif"
+        "previewImage" : "https://raw.githubusercontent.com/akilr/Confirm-Before-Save-In-Interactive-Grid/blob/main/IG_Confirm_before_Save.gif"
       }
     }
   }
